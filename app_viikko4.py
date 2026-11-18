@@ -86,9 +86,9 @@ def week2():
 
     <h2>GitHub repository</h2>
 
-    <p>This repository contains information from all linux week projects. <div>
-    <a href="https://github.com/HenkkaOAMK/linuxkurssi">
-    https://github.com/HenkkaOAMK/linuxkurssi <div>
+    <p>This repository contains information from week4 project. <div>
+    <a href="https://github.com/HenkkaOAMK/linuxkurssi/tree/main/viikko4">
+    https://github.com/HenkkaOAMK/linuxkurssi/viikko4 <div>
     </a>
     Passwords and other sensitive information are excluded.
     </p>
