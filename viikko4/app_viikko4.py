@@ -6,8 +6,8 @@ app = Flask(__name__)
 @app.route("/")
 def week2():
     conn = mariadb.connect(
-	user="henkka",
-	password="neokoda85",
+	user="HIDDEN USER",
+	password="HIDDEN PASS",
 	host="localhost",
 	database="week2"
     )
