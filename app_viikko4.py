@@ -171,7 +171,12 @@ def week2():
     <li>B's website, replication and backup schedule continue working after B was rebooted -> OK <div>
     </li>
     </ul>
-
+    <p>Backup verification:<div>
+    /var/backup/www<div>
+    20261118-070001 -> OK<div>
+    20261118-080001 -> OK<div>
+    20261118-090001 -> OK<div>
+    <div>
     <h2>Problem solved</h2>
     <p>
     Week 4 application failed first becouse it was using same port 5000 that week 2 used. I changed the port to
