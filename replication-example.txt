@@ -1,0 +1,14 @@
+Server A
+
+server_id = 1
+log_bin = primary-bin
+binlog_format = ROW
+
+Server B
+
+server_id = 2
+relay_log = replica-relay-bin
+read_only = ON
+
+Replication user: replicator
+
